@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 chelsycortes  staff   0 Apr  7 13:30 lab-01-folder.txt
+drwxr-xr-x@ 2 chelsycortes  staff  64 Apr  7 13:09 p1
+drwxr-xr-x@ 2 chelsycortes  staff  64 Apr  7 13:11 p2
+drwxr-xr-x  2 chelsycortes  staff  64 Apr  7 13:11 p3
+drwxr-xr-x  2 chelsycortes  staff  64 Apr  7 13:11 p4
+drwxr-xr-x@ 2 chelsycortes  staff  64 Apr  7 13:11 p5
+drwxr-xr-x@ 2 chelsycortes  staff  64 Apr  7 13:11 p6
+drwxr-xr-x@ 2 chelsycortes  staff  64 Apr  7 13:11 p7
+drwxr-xr-x  2 chelsycortes  staff  64 Apr  7 13:11 p8
